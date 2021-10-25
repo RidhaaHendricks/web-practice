@@ -1,0 +1,92 @@
+{
+  "item-list": [
+    {
+      "itemName": "Watch",
+      "itemDescription": "Tells time",
+      "itemCategory": "Phone Accessory",
+      "itemPrice": 500,
+      "itemPic": "https://fdn.gsmarena.com/imgroot/news/21/04/oneplus-watch-update/-1200/gsmarena_002.jpg",
+      "id": 1
+    },
+    {
+      "itemName": "Phone",
+      "itemDescription": "For everything",
+      "itemCategory": "Phone",
+      "itemPrice": 1000,
+      "itemPic": "https://cdn.vox-cdn.com/thumbor/0vkUlE9CGelZsRZlY1XZZGqsZVQ=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22015272/cgartenberg_201105_4276_004.0.jpg",
+      "id": 2
+    },
+    {
+      "itemName": "Ring",
+      "itemDescription": "Fashion",
+      "itemCategory": "Fashion Accessory",
+      "itemPrice": 100,
+      "itemPic": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJMlMB4T4d0/v0/1000x-1.jpg",
+      "id": 3
+    },
+    {
+      "itemName": "Belt",
+      "itemDescription": "Holds Stuff",
+      "itemCategory": "Fashion Accessory",
+      "itemPrice": 200,
+      "itemPic": "https://image.tfgmedia.co.za/image/1/process/750x750?source=https://cdn.tfgmedia.co.za/25/ProductImages/57227305.jpg",
+      "id": 4
+    },
+    {
+      "itemName": "Apple",
+      "itemDescription": "To Eat",
+      "itemCategory": "Food",
+      "itemPrice": 50,
+      "itemPic": "https://thumbs.dreamstime.com/b/red-apple-closeup-table-textured-surface-lighting-to-left-glare-sun-shadow-single-item-143837193.jpg",
+      "id": 5
+    },
+    {
+      "itemName": "Coffee",
+      "itemDescription": "To drink",
+      "itemCategory": "Food",
+      "itemPrice": 25,
+      "itemPic": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2015/08/coffee_1.jpg",
+      "id": 6
+    },
+    {
+      "itemName": "Cups",
+      "itemDescription": "To drink from",
+      "itemCategory": "Food Accessory",
+      "itemPrice": 10,
+      "itemPic": "https://cdn.ps.emap.com/wp-content/uploads/sites/3/2019/10/plastic-cups.jpg",
+      "id": 7
+    },
+    {
+      "itemName": "Paper Cutlery",
+      "itemDescription": "To from with",
+      "itemCategory": "Food Accessory",
+      "itemPrice": 20,
+      "itemPic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/plastic-cutlery-1561542695.jpg",
+      "id": 8
+    },
+    {
+      "itemName": "Speakers",
+      "itemDescription": "Plays Music/Sound",
+      "itemCategory": "Computer Accessory",
+      "itemPrice": 200,
+      "itemPic": "https://www.hificorp.co.za/media/catalog/product/cache/7ce9addd40d23ee411c2cc726ad5e7ed/S/B/SB_623_d6c1.jpg",
+      "id": 9
+    },
+    {
+      "itemName": "Keyboard",
+      "itemDescription": "Types letters/number & symbols",
+      "itemCategory": "Computer Accessory",
+      "itemPrice": 250,
+      "itemPic": "https://cdn.alzashop.com/Foto/f16/TL/TL225c.jpg",
+      "id": 10
+    },
+    {
+      "itemName": "Mouse ",
+      "itemDescription": "Clicks",
+      "itemCategory": "Computer Accessory",
+      "itemPrice": 100,
+      "itemPic": "https://www.incredible.co.za/media/catalog/product/cache/9fb3f461bc58409e8e845998d2286ec9/m/i/microsoft_mouse_9c72.jpg",
+      "id": 11
+    }
+  ]
+}
